@@ -60,3 +60,31 @@
 .fa-solid,.fa-check{
   color: #16D887;
 }
+
+/* My plan styles */
+.my-plan-title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
+.plan-items{
+  display: flex;
+  gap: 120px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+.plan-sub-title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.plan-description{
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+}
