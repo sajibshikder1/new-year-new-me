@@ -176,6 +176,17 @@
   border-radius: 5px;
 }
 .icons{
-  padding: 10px;
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
   margin-top: 30px;
+}
+.fa-facebook{
+  color: #006AFF;
+}
+.fa-square-twitter{
+  color: #006AFF;
+}
+.fa-youtube{
+  color: #FF0000;
 }
