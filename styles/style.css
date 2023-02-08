@@ -33,3 +33,30 @@
   margin-top: 30px;
   border-radius: 5px;
 }
+/* failure year style */
+.section-container{
+  margin-top: 130px;
+}
+.previous-year-container{
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  margin-left: 200px;
+}
+.failures-items{
+  margin-left: 90px;
+}
+.failures-title{
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 24px;
+}
+.failures-description{
+  font-weight: 400;
+  font-size: 18px;
+  color: #444343;
+  margin-bottom: 16px;
+}
+.fa-solid,.fa-check{
+  color: #16D887;
+}
