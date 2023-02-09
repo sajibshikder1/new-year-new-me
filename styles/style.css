@@ -103,10 +103,12 @@
   text-align: center;
   margin-bottom: 100px;
 }
+.watch-container{
+  margin-left: 330px;
+  padding-top: 60px;
+}
 .banner-items{
   text-align: start;
-  margin-left: 280px;
-  padding-top: 60px;
 }
 .title{
   font-weight: 700;
