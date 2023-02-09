@@ -121,6 +121,59 @@
   color: #F15B22;
   margin-top: 24px;
 }
+/*  */
+.confident-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+
+}
+.confident-items{
+  display: flex;
+  width: 1140px;
+  height: 300px;
+  justify-content: center;
+  background: #0c0c0c;
+  border-radius: 8px;
+  margin-bottom: 130px;
+  background-image: url('../images/header_bg.png'), url('../images/gradient1.png');
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-blend-mode:hard-light;
+
+}
+.confident-banner{
+  width: 00px;
+  height: 400px;
+  
+  
+}
+.confident-item{
+  justify-content: start;
+  text-align: center;
+  align-items: start;
+  margin-top: 60px;
+}
+.confident-title{
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+  text-align: left;
+}
+.confident-description{
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 10px;
+  color: aliceblue;
+}
+.confidence{
+  color: #F15B22;
+}
+/* .confident-man{
+  border-left: 1px solid #F15B22;
+} */
 
 /* footer style */
 .footer-container{
