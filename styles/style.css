@@ -104,12 +104,11 @@
   margin-bottom: 100px;
 }
 .watch-container{
-  margin-left: 330px;
+  text-align: start;
+  margin-left: 400px;
   padding-top: 60px;
 }
-.banner-items{
-  text-align: start;
-}
+
 .title{
   font-weight: 700;
   font-size: 40px;
